@@ -26,7 +26,6 @@ export default function TalkForm() {
       status
     })
 
-    // Réinitialiser le formulaire
     setTitle('')
     setSpeaker('')
     setDate('')
